@@ -1,5 +1,5 @@
 # Mamba-Plugin
-![1](.\UcTikiTorch\images\1.png)
+![1](/UcTikiTorch/images/1.png)
 
 ------
 
