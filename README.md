@@ -21,21 +21,21 @@
 
 1.MSF生成base64 payload
 
-![2](.\UcTikiTorch\images\2.png)
+![2](/UcTikiTorch/images/2.png)
 
 2.填写payload并选择生成路径
 
-![3](.\UcTikiTorch\images\3.png)
+![3](/UcTikiTorch/images/3.png)
 
 3.生成
 
 4.调用DLL
 
-![4](.\UcTikiTorch\images\4.png)
+![4](/UcTikiTorch/images/4.png)
 
 5.注入目标程序
 
-![5](.\UcTikiTorch\images\5.png)
+![5](/UcTikiTorch/images/5.png)
 
 ------
 
